@@ -1,10 +1,14 @@
 #include<iostream>
-using namespace std;
+#include"person.h"
+
 int main()
 {
     double n=2.3;
-    cout<<n;
+    std::cout<<n;
     int num=0;
-    std::cout<<num;
+    std::cout<<num<<std::endl;
+        std::cout<<au;
     return 0;
+    //judgePathIsExsits(filePath);
+
 }
