@@ -1,4 +1,3 @@
 #pragma once
 #include<iostream>
-
-int au=2;
+using namespace std;
