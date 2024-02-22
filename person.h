@@ -1,4 +1,4 @@
 #pragma once
 #include<iostream>
 using namespace std;
-int au =15 ;
+int au =16 ;
